@@ -22,7 +22,7 @@ Uma janela de preview mostra exatamente como os arquivos ficarão **antes** de q
 
 ## Instalação (usuário final)
 
-1. Baixe `slug-renamer-setup.exe` na [página de releases](../../releases)
+1. Baixe `slug-renamer-setup.exe` na [página de releases](https://github.com/juao/slug-renamer/releases)
 2. Execute o instalador (ele pede permissão de administrador — necessário para registrar o menu)
 3. Pronto! Clique direito dentro de qualquer pasta e use a opção
 
