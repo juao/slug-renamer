@@ -1,0 +1,6 @@
+dist/
+*.exe
+*.syso
+vendor/
+.idea/
+.vscode/
