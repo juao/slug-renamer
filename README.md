@@ -2,6 +2,8 @@
 
 > Renomeie todos os arquivos de uma pasta para o formato **slug** com um clique direito.
 
+![Preview do Slug Renamer](docs/screenshot.png)
+
 Clique com o botão direito dentro de qualquer pasta no Windows Explorer e escolha **"Renomear arquivos como slug"**.
 
 Uma janela de preview mostra exatamente como os arquivos ficarão **antes** de qualquer mudança.
